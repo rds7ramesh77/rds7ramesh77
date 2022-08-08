@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rds7ramesh77
-- 👀 I’m interested in One and Only Python😎
+- 👀 I’m interested in Python😎
 - 🌱 I’m currently learning Python Django Framework as well as Data Science
 - 💞️ I’m looking to collaborate on Python minor or Advance Projects
 - 📫 How to reach me : Simply mail me
